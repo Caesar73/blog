@@ -1,1 +1,57 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Caesar's Blog
+description: "Caesar Zhang's Blog"
+brief-intro: "Frontnd Dev Engineer"
+url:         "https://caesar73.github.io/blog/"
+baseurl: "" # the subpath of your site, e.g. /blog
+date_format: "%b %-d, %Y"
+email: rayanddoctor@126.com
+public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+#baseurl: "/online-cv" #change it according to your repository name
+
+permalink: /:year/:month/:day/:title/
+
+# other links
+twitter_username:
+facebook_username: rayanddoctor
+github_username: Caesar73
+weibo_username:
+zhihu_username:
+linkedIn_username:
+dribbble_username:
+
+description_footer: 本站记录我前端之旅的沿途风景！
+
+# comments
+# two ways to comment, only choose one, and use your own short name
+# 两种评论插件，选一个就好了，使用自己的 short_name
+duoshuo_shortname: caesar73
+disqus_shortname: #gaohaoyang
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id: dd2509b43f23d51c3a12e0fc8183217e
+google_analytics_id: UA-92419117-1 # google 分析追踪id
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 6
