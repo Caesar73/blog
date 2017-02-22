@@ -17,7 +17,7 @@ type: page
 
 * GitHub: [Caesar73](https://github.com/Caesar73)
 * email: rayanddoctor@126.com
-* [Weibo](http://weibo.com/3115521wh)
+* [Weibo](http://weibo.com/2462712874)
 * [Facebook](https://www.facebook.com/rayanddoctor)
 
 ### Update Log
